@@ -1,0 +1,4 @@
+baseURL = "http://suyingzhu.github.io"
+languageCode = "zh"
+title = "创建一个hugo网站"
+theme = "ananke"
